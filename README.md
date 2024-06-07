@@ -1,3 +1,3 @@
 #TARIC-SLU
 
-News: The TARIC-SLU dataset will be available soon ...
+Download link : https://demo-lia.univ-avignon.fr/taric-dataset/

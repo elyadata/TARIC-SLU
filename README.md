@@ -11,18 +11,8 @@ If you use TARIC-SLU in your research, please cite it using the following BibTeX
 ```bibtex
 @inproceedings{mdhaffar-etal-2024-taric-slu,
     title = "{TARIC}-{SLU}: A {T}unisian Benchmark Dataset for Spoken Language Understanding",
-    author = "Mdhaffar, Salima  and
-      Bougares, Fethi  and
-      de Mori, Renato  and
-      Zaiem, Salah  and
-      Ravanelli, Mirco  and
-      Est{\`e}ve, Yannick",
-    editor = "Calzolari, Nicoletta  and
-      Kan, Min-Yen  and
-      Hoste, Veronique  and
-      Lenci, Alessandro  and
-      Sakti, Sakriani  and
-      Xue, Nianwen",
+    author = "Mdhaffar, Salima  and Bougares, Fethi  and de Mori, Renato  and  Zaiem, Salah  and  Ravanelli, Mirco  and  Est{\`e}ve, Yannick",
+    editor = "Calzolari, Nicoletta  and Kan, Min-Yen  and Hoste, Veronique  and Lenci, Alessandro  and Sakti, Sakriani  and Xue, Nianwen",
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
     month = may,
     year = "2024",
